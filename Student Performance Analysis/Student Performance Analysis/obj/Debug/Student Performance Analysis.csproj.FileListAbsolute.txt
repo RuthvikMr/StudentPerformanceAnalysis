@@ -1,0 +1,18 @@
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\Student Performance Analysis.exe.config
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\Student Performance Analysis.exe
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\Student Performance Analysis.pdb
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student Performance Analysis.csprojResolveAssemblyReference.cache
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student_Performance_Analysis.Properties.Resources.resources
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student Performance Analysis.csproj.GenerateResource.Cache
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student Performance Analysis.exe
+c:\users\ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student Performance Analysis.pdb
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student_Performance_Analysis.Form1.resources
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student_Performance_Analysis.Form2.resources
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\obj\Debug\Student_Performance_Analysis.Form3.resources
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\MySql.Data.dll
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\Google.Protobuf.dll
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\Renci.SshNet.dll
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ruthvik m r\Documents\Visual Studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\MySql.Data.xml
+C:\Users\Ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\spa.mdf
+C:\Users\Ruthvik m r\documents\visual studio 2015\Projects\Student Performance Analysis\Student Performance Analysis\bin\Debug\spa_log.ldf
